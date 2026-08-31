@@ -3,7 +3,7 @@
 This repository contains a **derived subset of the IDRISI-RE/LMR Dataset** used in the experiments reported in:
 
 > [Jane Arleth dela Cruz, Iris Hendrickx, and Martha Lason]. “NoNE Found: Explaining the Output of Sequence-to-Sequence Models When No Named Entity Is Recognized” Explainable Artificial Intelligence. xAI 2024. Communications in Computer and Information Science, vol 2153. Springer, Cham., 2024.
-> [[DOI or publication link]([https://doi.org/10.1016/j.ipm.2023.103340](https://doi.org/10.1007/978-3-031-63787-2_14))]
+> [https://doi.org/10.1016/j.ipm.2023.103340](https://doi.org/10.1007/978-3-031-63787-2_14))]
 
 It is provided to support reproducibility of the accompanying article and is not an independently collected dataset.
 
